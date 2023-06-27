@@ -1,1 +1,1 @@
-challenge by Frontend Mentor by Gonzalo Zapata
+challenge Frontend Mentor by Gonzalo Zapata
